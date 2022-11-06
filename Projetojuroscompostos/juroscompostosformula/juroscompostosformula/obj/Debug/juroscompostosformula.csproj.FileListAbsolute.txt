@@ -1,0 +1,8 @@
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\juroscompostosformula\juroscompostosformula\obj\Debug\juroscompostosformula.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\juroscompostosformula\juroscompostosformula\obj\Debug\juroscompostosformula.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\juroscompostosformula\juroscompostosformula\obj\Debug\juroscompostosformula.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\juroscompostosformula\juroscompostosformula\bin\Debug\juroscompostosformula.exe.config
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\juroscompostosformula\juroscompostosformula\bin\Debug\juroscompostosformula.exe
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\juroscompostosformula\juroscompostosformula\bin\Debug\juroscompostosformula.pdb
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\juroscompostosformula\juroscompostosformula\obj\Debug\juroscompostosformula.exe
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\juroscompostosformula\juroscompostosformula\obj\Debug\juroscompostosformula.pdb
